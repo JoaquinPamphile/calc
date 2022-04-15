@@ -5,6 +5,7 @@ Calculadora con funciones simples.
 ## Grupo e integrantes
 	Grupo N° 
 	Pamphile Joaquín - legajo: 30185
+	Carzolio Gianfranco - legajo: 30138
 ## Comandos
 
 ```bash
