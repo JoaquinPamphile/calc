@@ -2,6 +2,9 @@
 
 Calculadora con funciones simples.
 
+## Grupo e integrantes
+	Grupo N° 
+	Pamphile Joaquín - legajo: 30185
 ## Comandos
 
 ```bash
