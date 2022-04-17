@@ -7,6 +7,7 @@ Calculadora con funciones simples.
 	Pamphile Joaquín - legajo: 30185
 	Carzolio Gianfranco - legajo: 30138
 	Drago Macarena - legajo: 25740
+	Zottig Marina - legajo: 29940
 ## Comandos
 
 ```bash
