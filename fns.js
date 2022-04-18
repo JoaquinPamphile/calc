@@ -12,7 +12,8 @@ function sum(a, b) {
 
 // Completar estas funciones
 
-function res(a, b) {}
+function res(a, b) {
+}
 
 function mul(a, b) {}
 
@@ -25,6 +26,8 @@ function div(a, b) {
     }
 }
 
-function pow(a, b) {}
+function pow(a, b) {
+    return a**b
+}
 
 module.exports = fns;
