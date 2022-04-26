@@ -20,7 +20,7 @@ function mul(a, b) {
 
 function div(a, b) {
     if (b == 0){
-        return "Error: div by 0"
+        return "Error: div by 2"
     }
     else {
         return a/b
